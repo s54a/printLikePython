@@ -1,0 +1,24 @@
+{
+  "name": "printlikepython",
+  "version": "1.0.0",
+  "description": "do console.log with print",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sninea/printLikePython.git"
+  },
+  "keywords": [
+    "printLikePython",
+    "console.log",
+    "console.log with print"
+  ],
+  "author": "Sooraj Gupta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sninea/printLikePython/issues"
+  },
+  "homepage": "https://github.com/sninea/printLikePython#readme"
+}
