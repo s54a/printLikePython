@@ -1,5 +1,5 @@
-function p13n(val) {
+function print(val) {
   return console.log(val);
 }
 
-module.exports = p13n;
+module.exports = print;
