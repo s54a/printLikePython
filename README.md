@@ -2,6 +2,12 @@
 
 Do console.log() with just print()
 
+## Installation
+
+```js
+npm i printlikepython
+```
+
 ### How to Use
 
 ```js
