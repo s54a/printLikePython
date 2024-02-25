@@ -8,6 +8,12 @@ Do console.log() with just print()
 npm i p13n
 ```
 
+or
+
+```js
+npm i printLikePython
+```
+
 ### How to Use
 
 ```js
