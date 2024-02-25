@@ -5,7 +5,13 @@ Do console.log() with just print()
 ## Installation
 
 ```js
-npm i printlikepython
+npm i p13n
+```
+
+or
+
+```js
+npm i printLikePython
 ```
 
 ### How to Use
