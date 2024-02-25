@@ -1,6 +1,6 @@
 {
   "name": "p13n",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "do console.log with print",
   "main": "index.js",
   "scripts": {
